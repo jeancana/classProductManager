@@ -87,7 +87,7 @@ class ProductManager {
  
 
 // CORRER EL EJERCICIO CON LA SIGUIENTE RUTA: 
-// node ./1-primer_desafio/primer-desafio-backend-vol3/classProductManager.js
+// node ./classProductManager.js
 
 // Instanciando un Objeto de la clase ProductManager
 const productManager = new ProductManager()
